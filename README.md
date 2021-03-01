@@ -3,6 +3,6 @@
 
 - 🎓 I’m currently **in my final year at Imperial College London**
 - 🌱 I’m writing a Masters' thesis on **detecting political bias in text with NLP & machine learning**
-- 🖥 📈 I'm an incoming software engineer at [Bloomberg LP](https://www.techatbloomberg.com/)
-- 🧑‍💻 You can find out more about me at https://fawazshah.github.io/
+- 📈 I'm an incoming software engineer at [Bloomberg LP](https://www.techatbloomberg.com/)
+- 🧑‍💻 You can find out more about me at [fawazshah.github.io](https://fawazshah.github.io/)
 - 📄 You can check out my previous experience [here](https://fawazshah.github.io/curriculum-vitae/fawaz-shah-CV.pdf)
