@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently **in my final year at Imperial College London**
 
-- 🌱 I’m writing a Masters' thesis on **detecting political bias in text with NLP & machine learning**
+- 🌱 I’m carrying out a Masters' project on **detecting political bias in text with NLP & machine learning**
 
 - 📈 I'm an incoming software engineer at [Bloomberg LP](https://www.techatbloomberg.com/)
 
