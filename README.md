@@ -5,7 +5,7 @@
 
 - 🌱 I’m carrying out a Masters' project on **detecting political bias in text with NLP & machine learning**
 
-- 📈 I'm an incoming software engineer at [Bloomberg LP](https://www.techatbloomberg.com/)
+- 📈 I'm an incoming software engineer at **[Bloomberg LP](https://www.techatbloomberg.com/)**
 
 - 🧑‍💻 You can find out more about me at [fawazshah.github.io](https://fawazshah.github.io/)
 
