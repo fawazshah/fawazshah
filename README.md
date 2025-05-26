@@ -6,4 +6,4 @@
 
 - 🧑‍💻 You can find out more about me at [fawazshah.github.io](https://fawazshah.github.io/)
 
-- 📄 You can check out my previous experience [here](https://fawazshah.github.io/cv.pdf)
+- 📄 You can check out my previous experience [here](https://fawazshah.github.io/CV.pdf)
